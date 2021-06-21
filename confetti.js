@@ -230,5 +230,5 @@ function updateParticles() {
     }
   }
 }
-
+// only need these functions
 export { startConfetti, stopConfetti, removeConfetti };
